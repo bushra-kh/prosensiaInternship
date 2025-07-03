@@ -52,7 +52,7 @@ def manage_contact_book(cb:dict, option: int):
             
         else:
             data=cb[contact]
-            print(contact, ": ".join(list(data)))
+            print(f"{contact} → Phone: {data["phone"]}, Email: {data["email"]}")
         return
     
     elif option==4:
