@@ -1,0 +1,2 @@
+1. Apple :: Qty: 14, Value: 70.0
+2. Milk :: Qty: 13, Value: 41.6 (Perishable, 3 days left)
