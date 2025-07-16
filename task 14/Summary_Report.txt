@@ -1,0 +1,14 @@
+Summary Report
+-----------------
+           Revenue  Sales  MarketShare
+count     3.000000    3.0          3.0
+mean   1033.333333  300.0         30.0
+std     152.752523  100.0         10.0
+min     900.000000  200.0         20.0
+25%     950.000000  250.0         25.0
+50%    1000.000000  300.0         30.0
+75%    1100.000000  350.0         35.0
+max    1200.000000  400.0         40.0
+
+Columns:
+Month, Revenue, Product, Sales, MarketShare
