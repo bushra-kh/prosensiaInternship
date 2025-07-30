@@ -1,0 +1,12 @@
+2025-07-30 11:06:00,665 ERROR:API error for CaLOiGEDPJQ: 'items'
+2025-07-30 11:06:00,667 ERROR:URL parsing error: Invalid YouTube URL
+2025-07-30 11:06:00,667 ERROR:URL parsing error: Invalid YouTube URL
+2025-07-30 11:07:22,022 ERROR:API error for aCyGvGEtOwc: 'items'
+2025-07-30 11:07:22,562 ERROR:API error for IMfBS4mBfBQ: 'items'
+2025-07-30 11:08:23,629 ERROR:API error for IMfBS4mBfBQ: 'items'
+2025-07-30 11:08:24,038 ERROR:API error for IMfBS4mBfBQ: 'items'
+2025-07-30 11:13:32,080 ERROR:API error for aCyGvGEtOwc: 'items'
+2025-07-30 11:13:32,579 ERROR:API error for CaLOiGEDPJQ: 'items'
+2025-07-30 11:16:32,175 ERROR:API error for IMfBS4mBfBQ: 'items'
+2025-07-30 11:16:32,709 ERROR:API error for aCyGvGEtOwc: 'items'
+2025-07-30 11:17:16,311 ERROR:API error for dQw4w9WgXcQ: 'items'
