@@ -6,7 +6,7 @@ import sys
 
 logging.basicConfig(filename="yt_log.txt", level=logging.ERROR, format="%(asctime)s %(levelname)s:%(message)s")
 
-API_KEY = "AIzaSyA8vxCGtI2_fdoDANqG7xR4VzwAugz9PSc"  # Replace with your API key
+API_KEY = "AIzaS.....zwAugz9PSc"  # API key
 
 def get_video_id(url):
     try:
